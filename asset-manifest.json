@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Personal_Portfolio/static/css/main.9da8b828.css",
+    "main.js": "/Personal_Portfolio/static/js/main.493b61f6.js",
+    "static/js/787.fb771931.chunk.js": "/Personal_Portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/og-img-webdesignmuseum.png": "/Personal_Portfolio/static/media/og-img-webdesignmuseum.07d97dbb3c4d0b713f78.png",
+    "static/media/Web-Design-Slogans (1).webp": "/Personal_Portfolio/static/media/Web-Design-Slogans (1).25121f54712b29ac21df.webp",
+    "static/media/vs-41934.png": "/Personal_Portfolio/static/media/vs-41934.5715d099072e9270dc95.png",
+    "static/media/r.jpg": "/Personal_Portfolio/static/media/r.c32196ce75b550850885.jpg",
+    "static/media/helvetica-neu.ttf": "/Personal_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/Personal_Portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/CoolveticaRg-Regular.woff": "/Personal_Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/logo.svg": "/Personal_Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Personal_Portfolio/index.html",
+    "main.9da8b828.css.map": "/Personal_Portfolio/static/css/main.9da8b828.css.map",
+    "main.493b61f6.js.map": "/Personal_Portfolio/static/js/main.493b61f6.js.map",
+    "787.fb771931.chunk.js.map": "/Personal_Portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da8b828.css",
+    "static/js/main.493b61f6.js"
+  ]
+}

@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from "react-router-dom"
 import "./index.scss"
-import img1 from "../../assets/images/responsive-web-design-page-promotion-different-display-devices-office-studio-desk-cioncept-graphic-elements-wall-174870257.jpg"
+import img1 from "../../assets/images/r.jpg"
 import img2 from "../../assets/images/og-img-webdesignmuseum.png"
 import img3 from "../../assets/images/Web-Design-Slogans (1).webp"
 export default function Home() {

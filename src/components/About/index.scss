@@ -1,0 +1,112 @@
+.rightSide1{
+    width:50vw;
+    height:100vh;
+    box-shadow: 3px 4px 5px rgba(0,0,0,0.1);
+    float: right;
+    background-color: #135274;
+    overflow: hidden;
+    mix-blend-mode: exclusion;
+    position: relative;
+
+}
+.rightSideLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+   
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+    background-color: rgba(0,0,0,0.3);
+    backdrop-filter: blur(5px);
+    animation: rotate 30s infinite;
+    transition: all 1s;
+}
+.rightSideLogo:hover{
+    transform: scale(1.25);
+    color: #ff7;
+    background: black;
+    cursor: pointer;
+}
+.logoposition1{
+    position: absolute;
+        left: 15%;
+        top: 15%;
+        animation-delay: 1s;
+}
+.logoposition2{
+    position: absolute;
+        right: 25%;
+        top: 15%;
+        animation-delay: 2.5s;
+}
+.logoposition3{
+    position: absolute;
+        left: 22%;
+        top: 40%;
+        animation-delay: 1.1s;
+}
+.logoposition4{
+    position: absolute;
+        right: 25%;
+        top: 40%;
+        animation-delay: 4.2s;
+}
+.logoposition5{
+    position: absolute;
+        left: 15%;
+        top: 65%;
+        animation-delay: 5.1s;
+}
+.logoposition6{
+    position: absolute;
+        right: 15%;
+        top: 65%;
+        animation-delay: 2.1s;
+}
+.logoposition7{
+    position: absolute;
+        left: 45%;
+        top: 80%;
+}
+.logoposition8{
+    position: absolute;
+        left: 40%;
+        top: 5%;
+}
+.logoposition9{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+        left: 40%;
+        top: 28%;
+        clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+        animation-delay: 1.8s;
+}
+.logoposition10{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+        left: 40%;
+        top: 55%;
+        clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+        animation-delay: 0.6s;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(360deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
+@media (max-width:768px) {
+    .rightSide1{
+        width: 0;
+    }
+}
+// clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
